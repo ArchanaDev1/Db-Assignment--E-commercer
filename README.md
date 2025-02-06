@@ -7,7 +7,9 @@ This project consists of an SQL database for managing customers, products, order
 ## Files Structure
 
 .schema.sql - Defines the database schema.
+
 .inserts.sql - Contains sample data insertions.
+
 .queries.sql - Includes various SQL queries for data retrieval and manipulation.
 
 ## Tool used
@@ -16,13 +18,17 @@ Tools used: SQL Fiddle
 ## Setup Instructions
 
 .Run schema.sql to create tables.
+
 .Execute inserts.sql to populate data.
+
 .Use queries.sql to interact with the database.
 
 ## Features
 
 .Customers, Products, Orders, and Order_Items tables.
+
 .Queries for customer details, order analysis, revenue calculation, and product      management.
+
 .Indexing for optimized performance.
 
 ## Links
